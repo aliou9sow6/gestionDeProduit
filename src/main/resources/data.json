@@ -1,0 +1,17 @@
+[
+  {
+    "id": 3,
+    "name": "Awa",
+    "email": "awa@gmail.com",
+    "dob": "2005-04-30",
+    "age": 19
+  },
+
+  {
+    "id": 4,
+    "name": "Tapha",
+    "email": "tapha@gmail.com",
+    "dob": "2004-04-30",
+    "age": 20
+  }
+]
